@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Riya Wadhwa
 
-<h3 align="center">🛡️ Cyber Security Analyst | Network Security Enthusiast | Linux & Microsoft Server Administrator</h3>
+<h3 align="center">🛡️ Cyber Security Analyst | Network Security Enthusiast</h3>
 
 ---
 
